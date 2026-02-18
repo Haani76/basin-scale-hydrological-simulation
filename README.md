@@ -181,7 +181,6 @@ Final NSE:   -0.074 (optimized parameters)
 
 ##  NetCDF Data Processing
 
-**Capabilities Demonstrated:**
 
 ### Operations Performed:
 1. **NetCDF Creation:** Generated gridded climate data (10×10 spatial grid, 1096 timesteps)
