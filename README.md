@@ -406,7 +406,7 @@ This framework is applicable to:
 **Haani Shafiq Siddiqui**  
 GitHub: [@Haani76](https://github.com/Haani76)  
 Project: [flood-forecasting-system](https://github.com/Haani76/flood-forecasting-system)  
-Live Demo: [Streamlit Dashboard](https://flood-forecasting-system-guj7kmtw4r6zqxndspxue8.streamlit.app/)
+Live Demo: [Streamlit Dashboard](https://basin-scale-hydrological-simulation-5tdk3wtpbmnx6u2euzjqew.streamlit.app//)
 
 ---
 
